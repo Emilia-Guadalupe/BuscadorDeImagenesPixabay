@@ -1,0 +1,16 @@
+body {
+  background: #2C3E50;  /* fallback for old browsers */
+  background: linear-gradient(to right, #282b57, #2e4da3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+#text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  padding-left: 10px;
+}
+
+#pixabay {
+  height: 70px;
+  padding-left: 10px;
+}
